@@ -1,0 +1,6 @@
+{
+  "name": "Malik Maqbool Kulfa House",
+  "description": "Premium Pakistani kulfa and ice cream shop in Changa Manga, Punjab. A Taste of Minded Flavour.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
